@@ -1,0 +1,564 @@
+The Portraits - Painting Catalog Summary
+Generated: 2025-07-31 15:21:52
+=====================================
+
+Painting 1:
+  New Name: The_Portraits_XLV
+  Original: The Portraits  - 1.png
+  Series: Manifold Study XIV
+  Subject: Plane
+  Date Created: September 2024
+  Physical Size: 12.0" x 12.0"
+  Handle: 
+  Product Title: 
+
+Painting 2:
+  New Name: The_Portraits_XXIX
+  Original: The Portraits  - 10.png
+  Series: Fluid Study VI
+  Subject: Wave
+  Date Created: June 2024
+  Physical Size: 10.0" x 8.0"
+  Handle: 
+  Product Title: 
+
+Painting 3:
+  New Name: The_Portraits_XXX
+  Original: The Portraits  - 11.png
+  Series: Manifold Study VII
+  Subject: Heart
+  Date Created: June 2024
+  Physical Size: 8.0" x 10.0"
+  Handle: 
+  Product Title: 
+
+Painting 4:
+  New Name: The_Portraits_XXXI
+  Original: The Portraits  - 12.png
+  Series: Fluid Study VII
+  Subject: Wave
+  Date Created: June 2024
+  Physical Size: 8.0" x 10.0"
+  Handle: 
+  Product Title: 
+
+Painting 5:
+  New Name: The_Portraits_XXIV
+  Original: The Portraits  - 13.png
+  Series: Manifold Study III
+  Subject: Square
+  Date Created: May 2024
+  Physical Size: 11.0" x 14.0"
+  Handle: 
+  Product Title: 
+
+Painting 6:
+  New Name: The_Portraits_XXXII
+  Original: The Portraits  - 14.png
+  Series: Manifold Study VIII
+  Subject: Spiral Shell
+  Date Created: June 2024
+  Physical Size: 24.0" x 16.0"
+  Handle: 
+  Product Title: 
+
+Painting 7:
+  New Name: The_Portraits_XXXVIII
+  Original: The Portraits  - 15.png
+  Series: Fluid Study IX
+  Subject: Wave
+  Date Created: July 2024
+  Physical Size: 24.0" x 16.0"
+  Handle: 
+  Product Title: 
+
+Painting 8:
+  New Name: The_Portraits_III
+  Original: The Portraits  - 16.png
+  Series: Fluid Study II
+  Subject: Water From an Ancient Well
+  Date Created: April 2024
+  Physical Size: 12.0" x 12.0"
+  Handle: 
+  Product Title: 
+
+Painting 9:
+  New Name: The_Portraits_IV
+  Original: The Portraits  - 17.png
+  Series: Function Study I
+  Subject: Surjective Submersion
+  Date Created: April 2024
+  Physical Size: 3.0" x 3.0"
+  Handle: 
+  Product Title: 
+
+Painting 10:
+  New Name: The_Portraits_V
+  Original: The Portraits  - 18.png
+  Series: Fractal Study I
+  Subject: EKG
+  Date Created: April 2024
+  Physical Size: 3.0" x 3.0"
+  Handle: 
+  Product Title: 
+
+Painting 11:
+  New Name: The_Portraits_VI
+  Original: The Portraits  - 19.png
+  Series: Nuts and Seeds I
+  Subject: Honeycomb
+  Date Created: April 2024
+  Physical Size: 3.0" x 3.0"
+  Handle: 
+  Product Title: 
+
+Painting 12:
+  New Name: The_Portraits_XLVI
+  Original: The Portraits  - 2.png
+  Series: Nature Study III
+  Subject: Sachuest
+  Date Created: September 2024
+  Physical Size: 12.0" x 12.0"
+  Handle: 
+  Product Title: 
+
+Painting 13:
+  New Name: The_Portraits_VII
+  Original: The Portraits  - 20.png
+  Series: Fractal Study II
+  Subject: 
+  Date Created: April 2024
+  Physical Size: 3.0" x 3.0"
+  Handle: 
+  Product Title: 
+
+Painting 14:
+  New Name: The_Portraits_VIII
+  Original: The Portraits  - 21.png
+  Series: Spacetime Study I
+  Subject: CASS Eigenrays
+  Date Created: April 2024
+  Physical Size: 3.0" x 3.0"
+  Handle: 
+  Product Title: 
+
+Painting 15:
+  New Name: The_Portraits_IX
+  Original: The Portraits  - 22.png
+  Series: Function Study II
+  Subject: E8
+  Date Created: April 2024
+  Physical Size: 3.0" x 3.0"
+  Handle: 
+  Product Title: 
+
+Painting 16:
+  New Name: The_Portraits_X
+  Original: The Portraits  - 23.png
+  Series: Function Study III
+  Subject: Euler-Bessel Transform
+  Date Created: April 2024
+  Physical Size: 3.0" x 3.0"
+  Handle: 
+  Product Title: 
+
+Painting 17:
+  New Name: The_Portraits_XI
+  Original: The Portraits  - 24.png
+  Series: Function Study IV
+  Subject: Riemann Zeta Function
+  Date Created: April 2024
+  Physical Size: 3.0" x 3.0"
+  Handle: 
+  Product Title: 
+
+Painting 18:
+  New Name: The_Portraits_XII
+  Original: The Portraits  - 25.png
+  Series: Spacetime Study II
+  Subject: Watches
+  Date Created: April 2024
+  Physical Size: 3.0" x 3.0"
+  Handle: 
+  Product Title: 
+
+Painting 19:
+  New Name: The_Portraits_XIII
+  Original: The Portraits  - 26.png
+  Series: Nuts and Seeds II
+  Subject: Berry
+  Date Created: April 2024
+  Physical Size: 12.0" x 12.0"
+  Handle: 
+  Product Title: 
+
+Painting 20:
+  New Name: The_Portraits_I
+  Original: The Portraits  - 27.png
+  Series: Manifold Study I
+  Subject: Arrow
+  Date Created: March 2024
+  Physical Size: 8.0" x 10.0"
+  Handle: 
+  Product Title: 
+
+Painting 21:
+  New Name: The_Portraits_LIII
+  Original: The Portraits  - 28.png
+  Series: Fluid Study X
+  Subject: Flame
+  Date Created: December 2024
+  Physical Size: 8.0" x 8.0"
+  Handle: 
+  Product Title: 
+
+Painting 22:
+  New Name: The_Portraits_XLVII
+  Original: The Portraits  - 29.png
+  Series: Manifold Study XV
+  Subject: Sphere
+  Date Created: October 2024
+  Physical Size: 11.0" x 14.0"
+  Handle: 
+  Product Title: 
+
+Painting 23:
+  New Name: The_Portraits_XLVIII
+  Original: The Portraits  - 3.png
+  Series: Manifold Study XVI
+  Subject: Sphere
+  Date Created: October 2024
+  Physical Size: 12.0" x 12.0"
+  Handle: 
+  Product Title: 
+
+Painting 24:
+  New Name: The_Portraits_XXXIX
+  Original: The Portraits  - 30.png
+  Series: Manifold Study XIII
+  Subject: Sphere
+  Date Created: August 2024
+  Physical Size: 11.0" x 14.0"
+  Handle: 
+  Product Title: 
+
+Painting 25:
+  New Name: The_Portraits_XL
+  Original: The Portraits  - 31.png
+  Series: Organism Study V
+  Subject: Hand
+  Date Created: August 2024
+  Physical Size: 11.0" x 14.0"
+  Handle: 
+  Product Title: 
+
+Painting 26:
+  New Name: The_Portraits_XLIX
+  Original: The Portraits  - 32.png
+  Series: Manifold Study XVII
+  Subject: Sphere
+  Date Created: October 2024
+  Physical Size: 11.0" x 14.0"
+  Handle: 
+  Product Title: 
+
+Painting 27:
+  New Name: The_Portraits_XLI
+  Original: The Portraits  - 33.png
+  Series: Organism Study VI
+  Subject: Face
+  Date Created: August 2024
+  Physical Size: 11.0" x 14.0"
+  Handle: 
+  Product Title: 
+
+Painting 28:
+  New Name: The_Portraits_L
+  Original: The Portraits  - 34.png
+  Series: Manifold Study XVIII
+  Subject: Hyper-Plane
+  Date Created: October 2024
+  Physical Size: 11.0" x 14.0"
+  Handle: 
+  Product Title: 
+
+Painting 29:
+  New Name: The_Portraits_XIV
+  Original: The Portraits  - 35.png
+  Series: Nuts and Seeds III
+  Subject: Amaranto Flower
+  Date Created: April 2024
+  Physical Size: 11.0" x 14.0"
+  Handle: 
+  Product Title: 
+
+Painting 30:
+  New Name: The_Portraits_XV
+  Original: The Portraits  - 36.png
+  Series: Nuts and Seeds IV
+  Subject: Amaranto Seed
+  Date Created: April 2024
+  Physical Size: 14.0" x 11.0"
+  Handle: 
+  Product Title: 
+
+Painting 31:
+  New Name: The_Portraits_XXV
+  Original: The Portraits  - 37.png
+  Series: Manifold Study IV
+  Subject: Spiral
+  Date Created: May 2024
+  Physical Size: 12.0" x 12.0"
+  Handle: 
+  Product Title: 
+
+Painting 32:
+  New Name: The_Portraits_XVI
+  Original: The Portraits  - 38.png
+  Series: Fluid Study III
+  Subject: Wave
+  Date Created: April 2024
+  Physical Size: 10.0" x 8.0"
+  Handle: 
+  Product Title: 
+
+Painting 33:
+  New Name: The_Portraits_XVII
+  Original: The Portraits  - 39.png
+  Series: Organism Study I
+  Subject: Bonsai Tree
+  Date Created: April 2024
+  Physical Size: 11.0" x 14.0"
+  Handle: 
+  Product Title: 
+
+Painting 34:
+  New Name: The_Portraits_LI
+  Original: The Portraits  - 4.png
+  Series: Function Study V
+  Subject: Sin(1/x)
+  Date Created: October 2024
+  Physical Size: 12.0" x 12.0"
+  Handle: 
+  Product Title: 
+
+Painting 35:
+  New Name: The_Portraits_XVIII
+  Original: The Portraits  - 40.png
+  Series: Fluid Study IV
+  Subject: Wave
+  Date Created: April 2024
+  Physical Size: 10.0" x 8.0"
+  Handle: 
+  Product Title: 
+
+Painting 36:
+  New Name: The_Portraits_XIX
+  Original: The Portraits  - 41.png
+  Series: Fluid Study V
+  Subject: Wave
+  Date Created: April 2024
+  Physical Size: 10.0" x 8.0"
+  Handle: 
+  Product Title: 
+
+Painting 37:
+  New Name: The_Portraits_II
+  Original: The Portraits  - 42.png
+  Series: Fluid Study I
+  Subject: Wave
+  Date Created: March 2024
+  Physical Size: 10.0" x 10.0"
+  Handle: 
+  Product Title: 
+
+Painting 38:
+  New Name: The_Portraits_XX
+  Original: The Portraits  - 43.png
+  Series: Fractal Study III
+  Subject: Riemann Circles
+  Date Created: April 2024
+  Physical Size: 10.0" x 8.0"
+  Handle: 
+  Product Title: 
+
+Painting 39:
+  New Name: The_Portraits_XXI
+  Original: The Portraits  - 44.png
+  Series: Manifold Study II
+  Subject: Quahog Shell
+  Date Created: April 2024
+  Physical Size: 10.0" x 8.0"
+  Handle: 
+  Product Title: 
+
+Painting 40:
+  New Name: The_Portraits_XXII
+  Original: The Portraits  - 45.png
+  Series: Organism Study II
+  Subject: Fish
+  Date Created: April 2024
+  Physical Size: 14.0" x 11.0"
+  Handle: 
+  Product Title: 
+
+Painting 41:
+  New Name: The_Portraits_XXVI
+  Original: The Portraits  - 46.png
+  Series: Manifold Study V
+  Subject: Triangle
+  Date Created: May 2024
+  Physical Size: 14.0" x 11.0"
+  Handle: 
+  Product Title: 
+
+Painting 42:
+  New Name: The_Portraits_XXXIII
+  Original: The Portraits  - 47.png
+  Series: Manifold Study IX
+  Subject: Heart
+  Date Created: June 2024
+  Physical Size: 10.0" x 8.0"
+  Handle: 
+  Product Title: 
+
+Painting 43:
+  New Name: The_Portraits_XXXIV
+  Original: The Portraits  - 48.png
+  Series: Manifold Study X
+  Subject: Heart
+  Date Created: June 2024
+  Physical Size: 10.0" x 8.0"
+  Handle: 
+  Product Title: 
+
+Painting 44:
+  New Name: The_Portraits_LIV
+  Original: The Portraits  - 49.png
+  Series: Other I
+  Subject: The Symbols
+  Date Created: February 2025
+  Physical Size: 16.0" x 20.0"
+  Handle: 
+  Product Title: 
+
+Painting 45:
+  New Name: The_Portraits_XXVII
+  Original: The Portraits  - 5.png
+  Series: Manifold Study VI
+  Subject: Sphere
+  Date Created: May 2024
+  Physical Size: 14.0" x 11.0"
+  Handle: 
+  Product Title: 
+
+Painting 46:
+  New Name: The_Portraits_LV
+  Original: The Portraits  - 50.png
+  Series: Other II
+  Subject: The Symbols
+  Date Created: February 2025
+  Physical Size: 12.0" x 12.0"
+  Handle: 
+  Product Title: 
+
+Painting 47:
+  New Name: The_Portraits_LVI
+  Original: The Portraits  - 51.png
+  Series: Other III
+  Subject: The Symbols
+  Date Created: February 2025
+  Physical Size: 12.0" x 12.0"
+  Handle: 
+  Product Title: 
+
+Painting 48:
+  New Name: The_Portraits_XLII
+  Original: The Portraits  - 52.png
+  Series: Organism Study VII
+  Subject: Fruit
+  Date Created: August 2024
+  Physical Size: 10.0" x 8.0"
+  Handle: 
+  Product Title: 
+
+Painting 49:
+  New Name: The_Portraits_XLIII
+  Original: The Portraits  - 53.png
+  Series: Nature Study I
+  Subject: Sachuest
+  Date Created: August 2024
+  Physical Size: 10.0" x 8.0"
+  Handle: 
+  Product Title: 
+
+Painting 50:
+  New Name: The_Portraits_XLIV
+  Original: The Portraits  - 54.png
+  Series: Nature Study II
+  Subject: Sachuest
+  Date Created: August 2024
+  Physical Size: 24.0" x 16.0"
+  Handle: 
+  Product Title: 
+
+Painting 51:
+  New Name: The_Portraits_XXVIII
+  Original: The Portraits  - 55.png
+  Series: Organism Study IV
+  Subject: Fish
+  Date Created: May 2024
+  Physical Size: 14.0" x 11.0"
+  Handle: 
+  Product Title: 
+
+Painting 52:
+  New Name: The_Portraits_XXIII
+  Original: The Portraits  - 56.png
+  Series: Organism Study III
+  Subject: Fish
+  Date Created: April 2024
+  Physical Size: 14.0" x 11.0"
+  Handle: 
+  Product Title: 
+
+Painting 53:
+  New Name: The_Portraits_LII
+  Original: The Portraits  - 6.png
+  Series: Manifold Study XIX
+  Subject: Spiral's Eye
+  Date Created: October 2024
+  Physical Size: 12.0" x 12.0"
+  Handle: 
+  Product Title: 
+
+Painting 54:
+  New Name: The_Portraits_XXXV
+  Original: The Portraits  - 7.png
+  Series: Manifold Study XI
+  Subject: Heart
+  Date Created: June 2024
+  Physical Size: 8.0" x 10.0"
+  Handle: 
+  Product Title: 
+
+Painting 55:
+  New Name: The_Portraits_XXXVI
+  Original: The Portraits  - 8.png
+  Series: Manifold Study XII
+  Subject: Heart
+  Date Created: June 2024
+  Physical Size: 8.0" x 10.0"
+  Handle: 
+  Product Title: 
+
+Painting 56:
+  New Name: The_Portraits_XXXVII
+  Original: The Portraits  - 9.png
+  Series: Fluid Study VIII
+  Subject: Wave
+  Date Created: June 2024
+  Physical Size: 8.0" x 10.0"
+  Handle: 
+  Product Title: 
+
